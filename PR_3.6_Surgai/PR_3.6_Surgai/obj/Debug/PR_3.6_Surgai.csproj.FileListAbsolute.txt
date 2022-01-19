@@ -1,0 +1,10 @@
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\obj\Debug\PR_3.6_Surgai.csprojAssemblyReference.cache
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\obj\Debug\PR_3._6_Surgai.MainForm.resources
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\obj\Debug\PR_3._6_Surgai.Properties.Resources.resources
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\obj\Debug\PR_3.6_Surgai.csproj.GenerateResource.cache
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\obj\Debug\PR_3.6_Surgai.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\bin\Debug\PR_3.6_Surgai.exe.config
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\bin\Debug\PR_3.6_Surgai.exe
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\bin\Debug\PR_3.6_Surgai.pdb
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\obj\Debug\PR_3.6_Surgai.exe
+C:\Users\Alienware\source\repos\PR_3.6_Surgai\PR_3.6_Surgai\obj\Debug\PR_3.6_Surgai.pdb
